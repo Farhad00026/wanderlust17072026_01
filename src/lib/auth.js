@@ -31,3 +31,4 @@ export const auth = betterAuth({
     jwt()
   ]
 });
+
