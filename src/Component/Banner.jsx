@@ -2,13 +2,13 @@ import { Separator } from "@heroui/react";
 
 const Banner = () => {
   return (
-    <div className="bg-[url('/assets/banner.png')] text-white  flex justify-between flex-col items-center  gap-5 h-150">
+    <div className="bg-[url('https://static.vecteezy.com/system/resources/thumbnails/001/849/553/small/modern-gold-background-free-vector.jpg')] bg-cover bg-center text-white flex justify-between flex-col items-center gap-5 h-150">
       <div className="p-10 text-center flex justify-center flex-col items-center gap-3.5 flex-1">
         <h1 className="text-7xl">
           Discover Your <br /> Next Adventure
         </h1>
 
-        <p className="text-2xl">
+        <p className="text-2xl text-gray-600">
           Explore breathtaking destinations and create unforgettable memories
           with our curated travel experiences.
         </p>
